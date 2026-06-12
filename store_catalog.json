@@ -1,35 +1,57 @@
 [
-  {
-    "Id": "dict_001",
-    "Name": "قاموس كلمات تصحيح",
-    "Description": "قاموس متخصص للمصطلحات الصعبة في ألعاب RPG",
-    "Author": "Intellectus Team",
-    "Category": "GameDictionary",
-    "Version": "1.1.1",
-    "PublishDate": "2026-06-12",
-    "Downloads": "150",
-    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
-  },
-  {
-    "Id": "core_001",
-    "Name": "محرك Tesseract الأساسي",
-    "Description": "الملفات الأساسية للتعرف الضوئي على الحروف (tessdata)",
-    "Author": "Intellectus Core",
-    "Category": "CoreEngine",
-    "Version": "5.0.0",
-    "PublishDate": "2026-06-12",
-    "Downloads": "1200",
-    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/tessdata.zip"
-  },
-  {
-    "Id": "corr_001",
-    "Name": "مصحح النصوص العامة",
-    "Description": "ملف تصحيح الأخطاء الإملائية الشائعة",
-    "Author": "Sahel",
-    "Category": "WordCorrection",
-    "Version": "1.2.4",
-    "PublishDate": "2026-06-12",
-    "Downloads": "85",
-    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/correction.json"
-  }
+    {
+        "Id": "dict_001",
+        "Name": "قلمي كلمات تصحيح",
+        "Description": "قلمي متخصص للمصطلحات الصعبة في ألعاب",
+        "Author": "Intellectus Team",
+        "Category": "GameDictionary",
+        "Version": "1.1.1",
+        "PublishDate": "2026-06-12",
+        "Downloads": "150",
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
+    },
+    {
+        "Id": "core_001",
+        "Name": "الأساسي Tesseract محرك",
+        "Description": "الملفات الأساسية للتعرف الضوئي على الحروف",
+        "Author": "Intellectus Core",
+        "Category": "CoreEngine",
+        "Version": "5.0.0",
+        "PublishDate": "2026-06-12",
+        "Downloads": "1200",
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/tessdata.zip"
+    },
+    {
+        "Id": "corr_001",
+        "Name": "مصطلح النصوص العامة",
+        "Description": "ملف تصحيح الأخطاء الإملائية الشائعة",
+        "Author": "Sahel",
+        "Category": "WordCorrection",
+        "Version": "1.2.4",
+        "PublishDate": "2026-06-12",
+        "Downloads": "85",
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/correction.json"
+    },
+    {
+        "Id": "global_001",
+        "Name": "القاموس العالمي الإنجليزي",
+        "Description": "قاموس إنجليزي-عربي شامل للمصطلحات العالمية",
+        "Author": "Intellectus Team",
+        "Category": "GlobalDictionary",
+        "Version": "1.0.0",
+        "PublishDate": "2026-06-12",
+        "Downloads": "0",
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/global_dictionary.json"
+    }
+      {
+        "Id": "new_001",
+        "Name": "اسم العنصر الجديد",
+        "Description": "وصف العنصر الجديد",
+        "Author": "اسم الكاتب",
+        "Category": "GameDictionary",
+        "Version": "1.0.0",
+        "PublishDate": "2026-06-12",
+        "Downloads": "0",
+        "DownloadUrl": "رابط الملف"
+    }
 ]
