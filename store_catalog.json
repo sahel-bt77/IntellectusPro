@@ -1,14 +1,14 @@
 [
   {
     "Id": "dict_001",
-    "Name": "قاموس ألعاب تقمص الأدوار",
+    "Name": "قاموس كلمات تصحيح",
     "Description": "قاموس متخصص للمصطلحات الصعبة في ألعاب RPG",
     "Author": "Intellectus Team",
     "Category": "GameDictionary",
-    "Version": "1.0.0",
+    "Version": "1.1.1",
     "PublishDate": "2026-06-12",
     "Downloads": "150",
-    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/rpg_dict.zip"
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
   },
   {
     "Id": "core_001",
