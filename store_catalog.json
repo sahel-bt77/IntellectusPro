@@ -1,3 +1,35 @@
 [
- 
+  {
+    "Id": "dict_001",
+    "Name": "قاموس ألعاب تقمص الأدوار",
+    "Description": "قاموس متخصص للمصطلحات الصعبة في ألعاب RPG",
+    "Author": "Intellectus Team",
+    "Category": "GameDictionary",
+    "Version": "1.0.0",
+    "PublishDate": "2026-06-12",
+    "Downloads": "150",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/rpg_dict.zip"
+  },
+  {
+    "Id": "core_001",
+    "Name": "محرك Tesseract الأساسي",
+    "Description": "الملفات الأساسية للتعرف الضوئي على الحروف (tessdata)",
+    "Author": "Intellectus Core",
+    "Category": "CoreEngine",
+    "Version": "5.0.0",
+    "PublishDate": "2026-06-12",
+    "Downloads": "1200",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/tessdata.zip"
+  },
+  {
+    "Id": "corr_001",
+    "Name": "مصحح النصوص العامة",
+    "Description": "ملف تصحيح الأخطاء الإملائية الشائعة",
+    "Author": "Sahel",
+    "Category": "WordCorrection",
+    "Version": "1.2.4",
+    "PublishDate": "2026-06-12",
+    "Downloads": "85",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/correction.json"
+  }
 ]
