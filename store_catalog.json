@@ -37,7 +37,7 @@
         "Name": "القاموس العالمي الإنجليزي",
         "Description": "قاموس إنجليزي-عربي شامل للمصطلحات العالمية",
         "Author": "Intellectus Team",
-        "Category": "GlobalDictionary",
+        "Category": "CoreEngine",
         "Version": "1.0.0",
         "PublishDate": "2026-06-12",
         "Downloads": "0",
