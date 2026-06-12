@@ -15,22 +15,22 @@
         "Name": "الأساسي Tesseract محرك",
         "Description": "الملفات الأساسية للتعرف الضوئي على الحروف",
         "Author": "Intellectus Core",
-        "Category": "CoreEngine",
+        "Category": "GlobalDictionary",
         "Version": "5.0.0",
         "PublishDate": "2026-06-12",
         "Downloads": "1200",
-        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/tessdata.zip"
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
     },
     {
         "Id": "corr_001",
         "Name": "مصطلح النصوص العامة",
         "Description": "ملف تصحيح الأخطاء الإملائية الشائعة",
         "Author": "Sahel",
-        "Category": "WordCorrection",
+        "Category": "GameDictionary",
         "Version": "1.2.4",
         "PublishDate": "2026-06-12",
         "Downloads": "85",
-        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/correction.json"
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
     },
     {
         "Id": "global_001",
