@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "dict_eldenring_ar",
+    "Name": "Elden Ring Lore Dictionary",
+    "Description": "قاموس شامل لأسماء الزعماء، الدروع، والأسلحة في عالم إلدن رينج.",
+    "Author": "SaudiGamer99",
+    "Category": "GameDictionary",
+    "Version": "v1.2.0",
+    "PublishDate": "2026-06-10",
+    "Downloads": "12.5K",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/latest/download/elden_dict.zip"
+  },
+  {
+    "Id": "core_tessdata_eng",
+    "Name": "Tesseract Eng Fast",
+    "Description": "محرك الرؤية الأساسي (نسخة سريعة ومخففة لقراءة النصوص الإنجليزية).",
+    "Author": "IntellectusOfficial",
+    "Category": "CoreEngine",
+    "Version": "v4.1.1",
+    "PublishDate": "2026-05-20",
+    "Downloads": "850K",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/latest/download/eng.zip"
+  },
+  {
+    "Id": "words_370k",
+    "Name": "المصحح الإملائي الشامل (370 ألف كلمة)",
+    "Description": "قاعدة بيانات ضخمة تحتوي على كافة المفردات الإنجليزية لضمان دقة القناص.",
+    "Author": "IntellectusOfficial",
+    "Category": "WordCorrection",
+    "Version": "v1.0",
+    "PublishDate": "2026-06-01",
+    "Downloads": "300K",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/latest/download/words.txt"
+  },
+  {
+    "Id": "dict_oxford_global",
+    "Name": "Oxford Global English",
+    "Description": "قاموس أوكسفورد العالمي للترجمات الحرفية والنصوص العامة بعيداً عن الألعاب.",
+    "Author": "IntellectusOfficial",
+    "Category": "GlobalDictionary",
+    "Version": "v2.0",
+    "PublishDate": "2026-06-12",
+    "Downloads": "1.2M",
+    "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/latest/download/oxford.rar"
+  }
+]
