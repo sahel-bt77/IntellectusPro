@@ -43,15 +43,4 @@
         "Downloads": "0",
         "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/raw/main/assets/global_dictionary.json"
     }
-      {
-        "Id": "new_001",
-        "Name": "اسم العنصر الجديد",
-        "Description": "وصف العنصر الجديد",
-        "Author": "اسم الكاتب",
-        "Category": "GameDictionary",
-        "Version": "1.0.0",
-        "PublishDate": "2026-06-12",
-        "Downloads": "0",
-        "DownloadUrl": "رابط الملف"
-    }
 ]
