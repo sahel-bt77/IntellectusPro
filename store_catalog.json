@@ -42,5 +42,16 @@
         "PublishDate": "2026-06-12",
         "Downloads": "0",
         "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/1.1.1v/words_alpha.txt"
+    },
+        {
+        "Id": "ene lan",
+        "Name": "اene lan",
+        "Description": "ene lan",
+        "Author": "Intellectus Team",
+        "Category": "CoreEngine",
+        "Version": "1.0.0",
+        "PublishDate": "2026-06-12",
+        "Downloads": "0",
+        "DownloadUrl": "https://github.com/sahel-bt77/IntellectusPro/releases/download/untagged-b20219d831df8efdd722/eng.traineddata"
     }
 ]
